@@ -1,0 +1,37 @@
+package com.ZZZ.z002usingservice;
+
+import android.app.Service;
+import android.content.Intent;
+import android.os.IBinder;
+import android.os.Binder;
+
+public class service001 extends Service {
+
+	@Override
+	public IBinder onBind(Intent intent) {
+		// TODO Auto-generated method stub
+		System.out.println("onbind");
+		return service001binder;
+	}
+	
+	private final Service001binder service001binder = new Service001binder();
+	public class Service001binder extends Binder{
+		
+	}
+
+	
+	@Override
+	public void onCreate() {
+		// TODO Auto-generated method stub
+		super.onCreate();
+		System.out.println("create service001");
+	}
+	
+	@Override
+	public void onDestroy() {
+		// TODO Auto-generated method stub
+		super.onDestroy();
+		System.out.println("destroy service001");
+	}
+
+}

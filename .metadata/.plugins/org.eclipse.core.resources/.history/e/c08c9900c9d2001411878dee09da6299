@@ -1,0 +1,7 @@
+package com.zzz.z009usinglistview1;
+
+import android.app.ListActivity;
+
+public class Fastlistview extends ListActivity {
+
+}

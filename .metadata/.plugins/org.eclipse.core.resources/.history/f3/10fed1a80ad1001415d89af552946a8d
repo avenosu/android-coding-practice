@@ -1,0 +1,15 @@
+package com.exaple.activity;
+
+import android.app.Activity;
+import android.os.Bundle;
+
+public class aty1 extends Activity {
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		// TODO Auto-generated method stub
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.aty1);
+	}
+
+}

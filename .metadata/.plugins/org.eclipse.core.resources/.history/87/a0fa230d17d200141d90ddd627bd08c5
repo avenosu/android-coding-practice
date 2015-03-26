@@ -1,0 +1,41 @@
+package com.zzz.Z001Activity;
+
+import javax.security.auth.PrivateCredentialPermission;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.Button;
+
+public class Aty1 extends Activity {
+
+	private Button Aty1_Button1_Comebackdata,Aty1_Button2_Back;
+	
+	
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		// TODO Auto-generated method stub
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.aty1);
+//4按钮传递数据		
+		Aty1_Button1_Comebackdata = (Button)findViewById(R.id.aty1_button1_comebackdata);
+		Aty1_Button1_Comebackdata.setOnClickListener(new android.view.View.OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				}
+		});
+//-尾
+//3按钮back	
+		Aty1_Button2_Back = (Button)findViewById(R.id.aty1_button2_back);
+		Aty1_Button2_Back.setOnClickListener(new android.view.View.OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				finish();}
+		});
+//-尾
+	}
+		
+
+}

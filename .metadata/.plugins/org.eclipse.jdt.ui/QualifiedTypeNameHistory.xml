@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="com.exaple.activity.R.layout"/>
+<fullyQualifiedTypeName name="com.exaple.activity.R.id"/>
+<fullyQualifiedTypeName name="android.view.View.OnClickListener"/>
+<fullyQualifiedTypeName name="com.exaple.activity.MainActivity"/>
+<fullyQualifiedTypeName name="com.exaple.activity.aty1"/>
+<fullyQualifiedTypeName name="com.ZZZ.z002usingservice.service001.service001binder"/>
+<fullyQualifiedTypeName name="android.os.Binder"/>
+<fullyQualifiedTypeName name="java.security.Principal"/>
+<fullyQualifiedTypeName name="java.util.Timer"/>
+<fullyQualifiedTypeName name="java.util.TimerTask"/>
+<fullyQualifiedTypeName name="android.support.v4.app.TaskStackBuilder"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.ZZZ.z002usingservice.R.id"/>
+<fullyQualifiedTypeName name="com.ZZZ.z002usingservice.service001"/>
+<fullyQualifiedTypeName name="com.example.z003usingbc.MainActivity"/>
+<fullyQualifiedTypeName name="com.example.z003usingbc.R.id"/>
+<fullyQualifiedTypeName name="android.R.string"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="com.example.z003usingbc.Mybc"/>
+<fullyQualifiedTypeName name="android.content.IntentFilter"/>
+<fullyQualifiedTypeName name="android.database.Cursor"/>
+<fullyQualifiedTypeName name="android.provider.ContactsContract"/>
+<fullyQualifiedTypeName name="android.provider.ContactsContract.Contacts"/>
+<fullyQualifiedTypeName name="android.app.Activity"/>
+<fullyQualifiedTypeName name="com.zzz.z005intents.R.layout"/>
+<fullyQualifiedTypeName name="android.widget.Button"/>
+<fullyQualifiedTypeName name="com.zzz.z005intents.R.id"/>
+<fullyQualifiedTypeName name="android.content.ComponentName"/>
+<fullyQualifiedTypeName name="com.zzz.z005intents.Aty001"/>
+<fullyQualifiedTypeName name="java.io.File"/>
+<fullyQualifiedTypeName name="android.net.Uri"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="android.widget.ImageView"/>
+</qualifiedTypeNameHistroy>
