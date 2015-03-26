@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
-<typeInfo handle="=Activity/F:\/android\/adt\/adt-bundle-windows-x86-20140702\/sdk\/platforms\/android-19\/android.jar&lt;android.app(Activity.class[Activity" modifiers="33" timestamp="1426933701495"/>
-<typeInfo handle="=Activity/src&lt;com.exaple.activity{aty1.java[aty1" modifiers="1" timestamp="1427080444096"/>
 <typeInfo handle="=Z003UsingBC/F:\/android\/adt\/adt-bundle-windows-x86-20140702\/sdk\/platforms\/android-20\/android.jar&lt;android.content(BroadcastReceiver.class[BroadcastReceiver" modifiers="1057" timestamp="1426914845380"/>
 <typeInfo handle="=Z003UsingBC/src&lt;com.example.z003usingbc{Mybc.java[Mybc" modifiers="1" timestamp="1427214755828"/>
 <typeInfo handle="=Z005Intents/src&lt;com.zzz.z005intents{Aty001.java[Aty001" modifiers="1" timestamp="1427223740140"/>
 <typeInfo handle="=Z005Intents/F:\/android\/adt\/adt-bundle-windows-x86-20140702\/sdk\/platforms\/android-20\/android.jar&lt;android.app(Activity.class[Activity" modifiers="33" timestamp="1426914845380"/>
-<typeInfo handle="=Z005Intents/src&lt;com.zzz.z005intents{Imageviewer.java[Imageviewer" modifiers="1" timestamp="1427226466223"/>
+<typeInfo handle="=Z005Intents/src&lt;com.zzz.z005intents{Imageviewer.java[Imageviewer" modifiers="1" timestamp="1427227370899"/>
 </typeInfoHistroy>

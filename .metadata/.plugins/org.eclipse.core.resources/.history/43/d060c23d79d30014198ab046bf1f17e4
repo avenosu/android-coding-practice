@@ -1,0 +1,36 @@
+package com.ZZZ.z008toast;
+
+import android.app.Activity;
+import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.view.View;
+import android.view.View.OnClickListener;
+import android.widget.Button;
+import android.widget.Toast;
+
+public class MainActivity extends Activity {
+	
+	private Button B1;
+
+	@Override
+	protected void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_main);
+		
+		B1 = (Button)findViewById(R.id.mainactivity_button1_toast);
+		B1.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+//				核心代码
+				Toast.makeText(MainActivity.this, "我是toast", Toast.LENGTH_LONG).show();
+			}
+		});
+	
+	
+	}
+
+	
+
+}
