@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ZZZ.z015menu.MainActivity" >
+
+    <item
+        android:id="@+id/menu_showdialog"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="show dialog"/>
+    <item
+        android:id="@+id/menu_showtoast"
+        android:orderInCategory="100"
+        android:title="show toast"
+        android:icon="@drawable/ic_launcher"/>
+
+</menu>

@@ -1,2 +1,2 @@
 eclipse.preferences.version=1
-task-tag-projects-already-scanned=helloworld,Activity,Default,Game2048,Z001Activity,Z002UsingService,Z003UsingBC,Z004ReadContact,Z005Intents,Z006Layout,Z007UIControls,Z008UsingListView,L010UIControls,Z009UsingListView1
+task-tag-projects-already-scanned=Z001Activity,Z002UsingService,Z003UsingBC,Z004ReadContact,Z005Intents,C001UIControls,Z006UsingListView,Z007UsingListView1,Z008Toast(word and picture),Z009Notification,Z010MultTouch,Z011SurfaceView_1rect,Z011SurfaceView_2line,Z012Stringres

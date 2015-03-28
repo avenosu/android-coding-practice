@@ -1,0 +1,13 @@
+package com.ZZZ.z011;
+
+import android.content.Context;
+import android.view.SurfaceView;
+
+public class Myview extends SurfaceView {
+
+	public Myview(Context context) {
+		super(context);
+		// TODO Auto-generated constructor stub
+	}
+
+}

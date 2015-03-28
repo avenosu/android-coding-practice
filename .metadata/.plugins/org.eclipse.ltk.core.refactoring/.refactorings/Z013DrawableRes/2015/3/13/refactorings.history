@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Z013DrawableRes/res/drawable-hdpi/4d6bf52a6059252dc78bae13379b033b5ab5b99f.jpg&apos; to &apos;img1.jpg&apos;" description="Rename resource &apos;4d6bf52a6059252dc78bae13379b033b5ab5b99f.jpg&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="res/drawable-hdpi/4d6bf52a6059252dc78bae13379b033b5ab5b99f.jpg" name="img1.jpg" stamp="1427431657496" updateReferences="true"/>
+</session>

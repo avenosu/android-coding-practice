@@ -1,0 +1,15 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.ZZZ.z008toast.MainActivity" >
+
+
+    <Button
+        android:id="@+id/mainactivity_button1_toast"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="显示一个简短的toast" />
+
+</LinearLayout>

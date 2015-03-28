@@ -1,0 +1,7 @@
+package com.ZZZ.z011;
+
+import android.view.SurfaceView;
+
+public class Myview extends SurfaceView {
+
+}

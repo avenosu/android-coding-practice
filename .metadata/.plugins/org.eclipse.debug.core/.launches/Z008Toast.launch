@@ -10,12 +10,10 @@
 <stringAttribute key="com.android.ide.eclipse.adt.target" value="AUTO"/>
 <booleanAttribute key="com.android.ide.eclipse.adt.wipedata" value="false"/>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/Z008Toast"/>
-<listEntry value="/Z008Toast/AndroidManifest.xml"/>
+<listEntry value="/Z008Toast(word and picture)"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="4"/>
-<listEntry value="1"/>
 </listAttribute>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Z008Toast"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Z008Toast(word and picture)"/>
 </launchConfiguration>
